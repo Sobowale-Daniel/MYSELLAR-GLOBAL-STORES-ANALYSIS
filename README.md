@@ -13,12 +13,19 @@ This project analyzes 2019–2021 sales data for Mysellar, a global retail compa
 - Investigate the correlation between total sales and GDP for Sub-Saharan African countries and highlight key countries of interest.
 - Visualize Date for Better Understanding  
 ## Tools
+- Power Bi
+- Excel 
 
 ## Techniques and Skills
-
-## Datasource
-
+- Data normalization
+- Data transformation with Power Query
+- Data modelling
+- Bookmarks
+- Report Automation
+- Data Visualization
 ## Data Model
+The data was first normalized in Excel before being transformed in Power Query.
+![Data Model](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Data%20Model%20.png)
 
 ## Dashboard Insights
 ### Overview
