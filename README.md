@@ -51,4 +51,5 @@ Identifying growth opportunities, such as expanding the product line or optimizi
 - Monitor and Balance Revenue Streams: The balance between online and offline revenue streams is critical. While online sales dominate, it is essential to avoid neglecting offline channels. Hybrid strategies, such as "click-and-collect" or exclusive offline offerings, could enhance overall revenue generation.
 
 ## Download
+<a href = "https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/raw/refs/heads/main/Photos/Daniel%20Sobowale%20Myseller.pbix"> Download The Power BI File </a>
 
