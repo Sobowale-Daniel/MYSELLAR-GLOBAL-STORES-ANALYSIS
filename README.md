@@ -35,7 +35,20 @@ The data was first normalized in Excel before being transformed in Power Query.
 ### Month on Month sales Analysis
 ![Month on Month Analysis](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Screenshot%202024-12-08%20163732.png)
 
-## Recommendation 
+## Recommendation
+- Focus on the Leading Contributors: Nominal GDP and Total Revenue: Given that "Total" has the highest values for both Nominal GDP and Total Revenue, it's crucial to maintain and further optimize strategies that leverage the factors contributing to this success. For instance:
+Investigate what drives "Total's" high performance and replicate those strategies across other categories or segments.
+Allocate more resources to sustain or increase Total’s contributions.
+-  Expand Online Sales Efforts: Online revenue being higher than offline and accounting for 51% of total revenue indicates a stronger market trend toward online sales.
+Invest in improving online platforms, customer experience, and digital marketing.
+Explore innovative ways to capture a larger share of the online market while ensuring offline channels are optimized for unique customer needs.
+- Strategically Address Regional Performance:
+Europe's Dominance in Units Sold: With Europe contributing the highest units sold, consider further capitalizing on this market through targeted campaigns or new product offerings tailored to European preferences.
+North America's Lagging Units Sold: Since North America has the lowest units sold, evaluate market challenges (e.g., competition, product-market fit) and develop strategies to boost sales in this region, such as localized promotions or partnerships.
+- Analyze Office Supplies Revenue Contribution: The Office Supplies category contributing 13.66% of total revenue in 2019 highlights its importance.
+ Consider: Examining trends and customer preferences in this category.
+Identifying growth opportunities, such as expanding the product line or optimizing pricing strategies.
+- Monitor and Balance Revenue Streams: The balance between online and offline revenue streams is critical. While online sales dominate, it is essential to avoid neglecting offline channels. Hybrid strategies, such as "click-and-collect" or exclusive offline offerings, could enhance overall revenue generation.
 
 ## Download
 
