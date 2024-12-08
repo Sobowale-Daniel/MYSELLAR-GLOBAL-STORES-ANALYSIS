@@ -28,9 +28,12 @@ The data was first normalized in Excel before being transformed in Power Query.
 ![Data Model](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Data%20Model%20.png)
 
 ## Dashboard Insights
-### Overview
-### Sales by Category Over Time Analysis 
+![Dashboard Insights](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Screenshot%202024-12-08%20163436.png)
+![Dashboard Insights 2](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Screenshot%202024-12-08%20163951.png)
+### Sales by Category Over Time Analysis
+![Sales by Category over Time Analysis](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Screenshot%202024-12-08%20163835.png)
 ### Month on Month sales Analysis
+![Month on Month Analysis](https://github.com/Sobowale-Daniel/MYSELLAR-GLOBAL-STORES-ANALYSIS/blob/main/Photos/Screenshot%202024-12-08%20163732.png)
 
 ## Recommendation 
 
